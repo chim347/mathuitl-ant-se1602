@@ -15,6 +15,6 @@ an extra Unit Test technique DDT, TDD
 ![Source cide with JUnit](https://github.com/Chim347/mathuitl-ant-se1602/blob/main/screenshots/source_code_with_junit.png)
   
 ### Connect me via nhanntse160792@gmail.com
-#### Copyright &#169; 2023 Chim347
+#### Copyright &#169; 2023 chim347
 
 
